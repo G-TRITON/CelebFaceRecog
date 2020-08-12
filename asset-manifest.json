@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/CelebFaceRecog/static/css/main.83e2b402.chunk.css",
+    "main.js": "/CelebFaceRecog/static/js/main.76f60780.chunk.js",
+    "main.js.map": "/CelebFaceRecog/static/js/main.76f60780.chunk.js.map",
+    "runtime-main.js": "/CelebFaceRecog/static/js/runtime-main.663b5d70.js",
+    "runtime-main.js.map": "/CelebFaceRecog/static/js/runtime-main.663b5d70.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/CelebFaceRecog/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.b1f0bf99.chunk.js": "/CelebFaceRecog/static/js/2.b1f0bf99.chunk.js",
+    "static/js/2.b1f0bf99.chunk.js.map": "/CelebFaceRecog/static/js/2.b1f0bf99.chunk.js.map",
+    "index.html": "/CelebFaceRecog/index.html",
+    "precache-manifest.3901680d40e7e8ea16c6f5eee1c380a3.js": "/CelebFaceRecog/precache-manifest.3901680d40e7e8ea16c6f5eee1c380a3.js",
+    "service-worker.js": "/CelebFaceRecog/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/CelebFaceRecog/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.83e2b402.chunk.css.map": "/CelebFaceRecog/static/css/main.83e2b402.chunk.css.map",
+    "static/js/2.b1f0bf99.chunk.js.LICENSE.txt": "/CelebFaceRecog/static/js/2.b1f0bf99.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.663b5d70.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.b1f0bf99.chunk.js",
+    "static/css/main.83e2b402.chunk.css",
+    "static/js/main.76f60780.chunk.js"
+  ]
+}
